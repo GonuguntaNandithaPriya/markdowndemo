@@ -26,12 +26,6 @@ ORDERED LIST
 ![harry](https://2.bp.blogspot.com/-J6C_NJrz8Hk/VerTGOpiP2I/AAAAAAAAGME/IxzURqOUqqw/s1600/Harry%2Bpotter%2Biphone%2Bwallpaper.jpg)
 -------------------------------------------------------------------------------------------------------------------------------------
 [gmail](https://gmail.com)
---------------------------
-table creation  
---------------------------
-Name | RollNum | Clg
-------|--------|-----
-Vrsec | 123 | VR
 -------------------------
 ```python
 n=int(input())
@@ -39,4 +33,3 @@ if n>0:
   print("positive")
 ```
 -------------------------
-:wink:
